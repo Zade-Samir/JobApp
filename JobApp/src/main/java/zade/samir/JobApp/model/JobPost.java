@@ -6,7 +6,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@Data
+@Data //used for lombok
 @NoArgsConstructor //constructor
 @AllArgsConstructor //setter and getter
 public class JobPost {
